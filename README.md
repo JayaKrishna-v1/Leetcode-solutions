@@ -149,6 +149,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0097-interleaving-string](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 ## Backtracking
 |  |
 | ------- |
@@ -472,8 +474,10 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
