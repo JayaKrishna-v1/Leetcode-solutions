@@ -113,6 +113,7 @@
 | [0118-pascals-triangle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0118-pascals-triangle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
