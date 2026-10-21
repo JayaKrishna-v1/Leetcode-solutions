@@ -185,6 +185,7 @@
 | [0126-word-ladder-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
