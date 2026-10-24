@@ -122,6 +122,7 @@
 | [0135-candy](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -406,6 +410,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -523,4 +528,12 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
