@@ -124,6 +124,7 @@
 | [0137-single-number-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0133-clone-graph](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | [0066-plus-one](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -543,4 +546,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
