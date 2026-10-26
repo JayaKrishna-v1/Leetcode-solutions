@@ -140,6 +140,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0133-clone-graph](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
@@ -236,6 +238,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -558,4 +561,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
