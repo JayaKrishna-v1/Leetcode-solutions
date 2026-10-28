@@ -257,6 +257,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [0130-surrounded-regions](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -486,6 +488,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -512,6 +515,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
