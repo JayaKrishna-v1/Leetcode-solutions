@@ -143,6 +143,7 @@
 | [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0056-merge-intervals](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -321,6 +325,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
