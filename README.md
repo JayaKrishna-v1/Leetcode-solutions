@@ -170,6 +170,7 @@
 | [0127-word-ladder](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -243,6 +244,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0143-reorder-list) |
