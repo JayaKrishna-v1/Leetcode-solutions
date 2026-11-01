@@ -175,6 +175,7 @@
 | [0140-word-break-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
@@ -248,6 +249,7 @@
 | [0141-linked-list-cycle](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Stack
 |  |
@@ -601,4 +603,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
