@@ -125,6 +125,7 @@
 | [0139-word-break](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0075-sort-colors](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0149-max-points-on-a-line](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -617,4 +621,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
