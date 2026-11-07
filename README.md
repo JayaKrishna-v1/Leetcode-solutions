@@ -129,6 +129,7 @@
 | [0152-maximum-product-subarray](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -412,6 +413,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/jkrishna3853-cmd/Leetcode-solutions/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
